@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-	int i=0;
-	
+	long long int a;
+	cin>>a;
+	cout<<2^a;
 }
